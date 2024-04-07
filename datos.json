@@ -1,0 +1,36 @@
+[{
+    "codigo_donacion": "dona123",
+    "id_punto": "10",
+    "nombre_producto": "Galletas",
+    "codigo_producto": "100",
+    "cantidad": "2",
+    "kg_unitario": 4,
+    "costo_unitario": 3400
+},
+{
+    "codigo_donacion": "dona123",
+    "id_punto": "10",
+    "nombre_producto": "Frutas",
+    "codigo_producto": "102",
+    "cantidad": "6",
+    "kg_unitario": 2,
+    "costo_unitario": 2000
+},
+{
+    "codigo_donacion": "dona345",
+    "id_punto": "12",
+    "nombre_producto": "Azucar",
+    "codigo_producto": "105",
+    "cantidad": "6",
+    "kg_unitario": 1,
+    "costo_unitario": 3600
+},
+{
+    "codigo_donacion": "dona345",
+    "id_punto": "12",
+    "nombre_producto": "Lentejas",
+    "codigo_producto": "106",
+    "cantidad": "3",
+    "kg_unitario": 4,
+    "costo_unitario": 10000
+}]
